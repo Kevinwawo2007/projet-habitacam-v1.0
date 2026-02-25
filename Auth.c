@@ -6,7 +6,7 @@
  * la persistance des utilisateurs dans le fichier texte.
  *
  * @version 1.0
- * @date    2024-2025
+ * @date    2025-2026
  * @author  SOUOPGUI
  * ============================================================ */
 
