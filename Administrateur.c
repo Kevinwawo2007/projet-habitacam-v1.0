@@ -7,8 +7,9 @@
  * Accessible uniquement aux comptes de role ROLE_ADMINISTRATEUR.
  *
  * @version 1.0
- * @date    2024-2025
+ * @date    2025-2026
  * @author  SOUOPGUI
+ * @author TOGNANG
  * ============================================================ */
 
 #include <stdio.h>
